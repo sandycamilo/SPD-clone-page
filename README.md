@@ -1,4 +1,4 @@
 # clone-page
 
 
-Cloned the SounCloud home page using Bootstrap. 
+Cloned SoundCloud home page using Bootstrap. 
